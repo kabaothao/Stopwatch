@@ -49,13 +49,13 @@ namespace Stopwatch
 
 
 /*
-i) Read the input from the user.
-ii) If the input is start -> start the stopwatch
-If the input is stop -> throw an InvalidOperation exception
-iii) Read another input from the user
-iv) If the input is stop -> stop the stopwatch and print the time span
+- Read the input from the user.
+- If the input is start -> start the stopwatch
+- If the input is stop -> throw an InvalidOperation exception
+- Read another input from the user
+- If the input is stop -> stop the stopwatch and print the time span
 If the input is start -> throw an InvalidOperation exception
-v) Repeat from step (i).
+- Repeat from step (i).
 
 
  */
